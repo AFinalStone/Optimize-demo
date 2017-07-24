@@ -211,3 +211,5 @@ In queue: Weak 0
 |软引用 | 在内存不足时| 对象缓存 | 内存不足时终止|
 | 弱引用 | 在垃圾回收时| 对象缓存| gc运行后终止|
 | 虚引用 | Unknown| Unknown| Unknown|
+
+[内存回收](http://www.cnblogs.com/skywang12345/p/3154474.html)
